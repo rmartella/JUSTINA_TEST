@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: planning2
+Description: Description of planning2
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: message_runtime actionlib_msgs

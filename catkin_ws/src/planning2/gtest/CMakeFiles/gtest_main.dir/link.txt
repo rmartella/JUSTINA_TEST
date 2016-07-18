@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/opt/codigo/ros/simulator/catkin_ws/src/planning2/gtest/src -lpthread libgtest.so -lpthread -Wl,-rpath,/opt/codigo/ros/simulator/catkin_ws/src/planning2/gtest/src:/opt/codigo/ros/simulator/catkin_ws/src/planning2/gtest 

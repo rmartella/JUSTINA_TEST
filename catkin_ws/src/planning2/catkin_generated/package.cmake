@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "planning2")
+set(planning2_MAINTAINER "rey <rey@todo.todo>")
+set(planning2_DEPRECATED "")
+set(planning2_VERSION "0.0.0")
+set(planning2_BUILD_DEPENDS "roscpp" "rospy" "std_msgs" "message_generation" "nav_msgs" "geometry_msgs" "actionlib_msgs" "tf" "tf_conversions" "dynamicvoronoi" "costmap_2d" "navig_msgs" "justina_tools" "common")
+set(planning2_RUN_DEPENDS "roscpp" "rospy" "std_msgs" "nav_msgs" "geometry_msgs" "message_runtime" "actionlib_msgs" "tf" "tf_conversions" "dynamicvoronoi" "costmap_2d" "navig_msgs" "justina_tools" "common")
+set(planning2_BUILDTOOL_DEPENDS "catkin")

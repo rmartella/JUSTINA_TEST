@@ -1,0 +1,8 @@
+prefix=/opt/codigo/ros/simulator/catkin_ws/src/planning2/devel
+
+Name: planning2
+Description: Description of planning2
+Version: 0.0.0
+Cflags: -I/opt/codigo/ros/simulator/catkin_ws/src/planning2/devel/include
+Libs: -L/opt/codigo/ros/simulator/catkin_ws/src/planning2/devel/lib 
+Requires: message_runtime actionlib_msgs

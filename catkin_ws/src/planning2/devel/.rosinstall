@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /opt/codigo/ros/simulator/catkin_ws/src/planning2/devel/setup.sh
